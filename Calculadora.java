@@ -8,18 +8,18 @@ class Calculadora{
 		
 		if (operador == '+'){
 			resultado = operando1 + operando2;
-			System.out.printf("%2f + %2f = %2f", operando1, operando2, resultado);
+			System.out.printf("%.2f + %.2f = %.2f", operando1, operando2, resultado);
 		} else if (operador == '+'){
 			resultado = operando1 - operando2;
-			System.out.printf("%2f - %2f = %2f", operando1, operando2, resultado);
+			System.out.printf("%.2f - %.2f = %.2f", operando1, operando2, resultado);
 		} else if (operador == '/'){
 		resultado = operando1 / operando2;
-			System.out.printf("%2f / %2f = %2f", operando1, operando2, resultado);
-		} else if (operador == '*'){
+			System.out.printf("%.2f / %.2f = %.2f", operando1, operando2, resultado);
+		} else if (operador == 'x'){
 		resultado = operando1 * operando2;
-			System.out.printf("%2f * %2f = %2f", operando1, operando2, resultado);
+			System.out.printf("%.2f * %.2f = %.2f", operando1, operando2, resultado);
 		} else {
-			System.out.println("Operador inválido!");
+			System.out.println("Operador invalido!");
 		}
 		
 	}
