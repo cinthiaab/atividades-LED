@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CalculadoraCientifica
+comment0.text=\r\n\ Calcula\ e\ imprime\ as\ seguintes\ opera\u00E7\u00F5es\:\ fatorial\ e\ seno.\r\n\ \r\n\ @author\:\r\n\ \ \ \ \ \ -\ Cinthia\ Alves\ Barreto,\ \r\n\ \ \ \ \ \ -\ Isabella\ Rubio\ Venancio\r\n\ \ \ \ \ \ -\ Steven\ She\ Cheng\ Wang\r\n\ \r\n\ @version\ 09/03/2023\r\n
+comment1.params=opnd
+comment1.target=double\ calcularSeno(java.lang.String)
+comment1.text=\r\n\ M\u00E9todo\ calcularSeno\r\n\r\n\ @param\ opnd1\ double\ operando\r\n\ @return\ double\ valor\ do\ seno\r\n
+comment2.params=opnd
+comment2.target=int\ calcularFatorial(java.lang.String)
+comment2.text=\r\n\ M\u00E9todo\ calcularFatorial\r\n\r\n\ @param\ opnd1\ double\ operando\r\n\ @return\ double\ valor\ do\ fatorial\r\n
+comment3.params=opnd\ operador
+comment3.target=void\ imprimirResultadoCalcCientifica(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ M\u00E9todo\ imprimirResultadoCalcCientifica\r\n\r\n\ @param\ opnd\ double\ operando\r\n\ @param\ oper\ String\ operador\r\n
+comment4.params=opnd
+comment4.target=void\ imprimirFatorial(java.lang.String)
+comment4.text=\r\n\ M\u00E9todo\ imprimirFatorial\r\n\r\n\ @param\ opnd\ double\ operando\r\n\ @param\ oper\ String\ operador\r\n
+comment5.params=opnd
+comment5.target=void\ imprimirSeno(java.lang.String)
+comment5.text=\r\n\ M\u00E9todo\ Seno\r\n\r\n\ @param\ opnd\ double\ operando\r\n\ @param\ oper\ String\ operador\r\n
+numComments=6

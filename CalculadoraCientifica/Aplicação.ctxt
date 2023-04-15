@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Aplica\u00E7\u00E3o
+comment0.text=\r\n\ Classe\ com\ a\ fun\u00E7\u00E3o\ main,\ l\u00EA\ entrada\ de\ dados\ e\ realiza\ as\ opera\u00E7\u00F5es,\ chamando\ seus\ respectivos\ m\u00E9todos.\r\n\ \r\n\ @author\:\r\n\ \ \ \ \ \ -\ Cinthia\ Alves\ Barreto,\ \r\n\ \ \ \ \ \ -\ Isabella\ Rubio\ Venancio\r\n\ \ \ \ \ \ -\ Steven\ She\ Cheng\ Wang\r\n\ \r\n\ @version\ 09/03/2023\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
